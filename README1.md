@@ -194,7 +194,7 @@ At Mind2i, students receive practical training, real-time projects, internship e
 ### Take the next step and begin your journey today.
 
 ### 🌐 Official Website: https://mind2i.com  
-### 🎓 Explore Python Internship Program: https://mind2i.com/python-internship  
+### 🎓 Explore Python Internship Program: https://www.mind2i.com/student-pro/ 
 ### 📞 Contact / WhatsApp: +91 9606561789
 
 Join thousands of learners who are building their future in technology with Mind2i and start your Python development journey today.
